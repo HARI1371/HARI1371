@@ -4,7 +4,7 @@
 
 ### 🧪 QA Tester  •  🤖 AI Agent Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=🧪+QA+Tester;🤖+AI+Agent+Builder;🧪+Breaking+Bugs+%7C+🤖+Building+Agents;🚀+Test.+Build.+Automate." alt="Typing Animation" />
+<img font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=🧪+QA+Tester;🤖+AI+Agent+Builder;🧪+Breaking+Bugs+%7C+🤖+Building+Agents;🚀+Test.+Build.+Automate." alt="Typing Animation" />
 
 <br>
 
