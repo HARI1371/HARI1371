@@ -1,141 +1,78 @@
 <div align="center">
 
-# 👋 Hey, I'm **Hari Haran R**
-
-### 🧪 QA Tester  •  🤖 AI Agent Builder
-
-<img font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=🧪+QA+Tester;🤖+AI+Agent+Builder;🧪+Breaking+Bugs+%7C+🤖+Building+Agents;🚀+Test.+Build.+Automate." alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7C3AED,100:EC4899&height=220&section=header&text=HARI%20HARAN%20R&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=QA%20TESTER%20%20%7C%20%20AI%20AGENT%20BUILDER&descSize=20&descAlignY=58&descAlign=50" width="100%"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/QA%20TESTER-Manual%20Testing-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20AGENT%20BUILDER-AI%20%26%20Automation-7C4DFF?style=for-the-badge&logo=probot&logoColor=white"/>
+# 👋 Hey, I'm Hari Haran R
+
+### 🧪 QA Tester &nbsp; • &nbsp; 🤖 AI Agent Builder
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=QA+Tester;AI+Agent+Builder;Manual+Testing+%7C+AI+Automation;Finding+Bugs+%7C+Building+Agents;Test.+Build.+Automate.+%F0%9F%9A%80" alt="Typing Animation"/>
 
 <br><br>
 
-<i>🧪 Breaking bugs. 🤖 Building intelligent agents. 🚀</i>
+<img src="https://img.shields.io/badge/🧪%20QA%20TESTER-00C853?style=for-the-badge&labelColor=111827"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🤖%20AI%20AGENT%20BUILDER-7C4DFF?style=for-the-badge&labelColor=111827"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=HARI1371&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
+
+<i>🧪 Breaking bugs. &nbsp; 🤖 Building intelligent agents. &nbsp; 🚀 Automating ideas.</i>
 
 </div>
 
 ---
 
-## 🧪 QA Tester
+<div align="center">
 
-> **Finding problems before users do.**
+## 🧪 QA TESTER &nbsp; × &nbsp; 🤖 AI AGENT BUILDER
 
 <table>
 <tr>
-<td>
+<td align="center" width="50%">
 
-🔍 **Manual Testing**
+### 🧪 QA TESTER
 
-</td>
-<td>
+**Finding problems before users do.**
 
-📝 **Test Case Design**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🐞 **Bug Reporting**
+🔍 Manual Testing  
+📝 Test Case Design  
+🐞 Bug Reporting  
+🔄 Regression Testing  
+✅ Functional Testing  
+🎯 Test Scenario Design  
+🗄️ SQL Testing  
+📋 SDLC / STLC  
 
 </td>
-<td>
 
-🔄 **Regression Testing**
+<td align="center" width="50%">
 
-</td>
-</tr>
+### 🤖 AI AGENT BUILDER
 
-<tr>
-<td>
+**Turning ideas into intelligent workflows.**
 
-✅ **Functional Testing**
-
-</td>
-<td>
-
-🗄️ **SQL Testing**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-📋 **SDLC / STLC**
-
-</td>
-<td>
-
-🎯 **Test Scenario Design**
+🧠 AI Agents  
+⚡ AI Automation  
+🔗 Workflow Automation  
+🛠️ No-Code / Low-Code AI  
+🔄 API Integration  
+🤖 Intelligent Workflows  
+⚙️ n8n  
+🐍 Python  
 
 </td>
 </tr>
 </table>
 
----
-
-## 🤖 AI Agent Builder
-
-> **Turning ideas into intelligent workflows.**
-
-<table>
-<tr>
-<td>
-
-🧠 **AI Agents**
-
-</td>
-<td>
-
-⚡ **AI Automation**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🔗 **Workflow Automation**
-
-</td>
-<td>
-
-🛠️ **No-Code / Low-Code AI**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🔄 **API & Tool Integration**
-
-</td>
-<td>
-
-🤖 **Intelligent Workflows**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-⚙️ **n8n**
-
-</td>
-<td>
-
-🐍 **Python**
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -148,48 +85,49 @@ I'm an aspiring **QA Tester** and **AI Agent Builder** who enjoys two sides of t
 > 🧪 **Breaking software to make it better.**  
 > 🤖 **Building intelligent systems to make work smarter.**
 
-### 🎯 Currently Focused On
+I enjoy learning by building practical projects, testing applications, finding problems, and exploring ways to automate repetitive tasks using AI.
 
-- 🧪 Software Testing & Quality Assurance
+### 🎯 My Focus
+
+- 🧪 Software Quality Assurance
+- 🔍 Manual Software Testing
 - 🤖 AI Agent Development
-- ⚡ Workflow Automation
+- ⚡ AI & Workflow Automation
 - 🐍 Python
 - 🗄️ SQL
-- 🚀 Building practical projects
-- 📚 Continuously improving my IT skills
+- 🚀 Practical Project Development
 
 ---
 
-## ⚡ Tech Stack
+<div align="center">
 
-### 🧪 QA & Testing
+## ⚡ TECH STACK
 
-<p>
+### 🧪 QA & TESTING
+
 <img src="https://img.shields.io/badge/Manual%20Testing-00C853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Test%20Cases-2196F3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bug%20Reporting-F44336?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Regression%20Testing-9C27B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Functional%20Testing-FF9800?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Regression%20Testing-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC%20%2F%20STLC-607D8B?style=for-the-badge"/>
 
-### 🤖 AI & Automation
+### 🤖 AI & AUTOMATION
 
-<p>
 <img src="https://img.shields.io/badge/AI%20Agents-7C4DFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Automation-00BCD4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
 
-### 💻 Programming & Tools
+### 💻 PROGRAMMING & TOOLS
 
-<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+
+</div>
 
 ---
 
@@ -197,27 +135,32 @@ I'm an aspiring **QA Tester** and **AI Agent Builder** who enjoys two sides of t
 
 <table>
 <tr>
-<td width="50%">
 
-### 🧪 QA Testing
+<td width="50%" valign="top">
 
-**Software Testing Projects**
+### 🧪 QA Testing Portfolio
 
-Manual testing projects covering:
+**Software Quality Assurance**
 
-- Test Cases
+A collection of practical QA work covering:
+
 - Test Scenarios
+- Test Cases
 - Bug Reports
 - Severity & Priority
+- Functional Testing
 - Regression Testing
+- SQL Testing
+
+**Goal:** Build strong real-world testing skills.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI Agent
+### 🤖 AI Agent Projects
 
-**AI Agent & Automation Projects**
+**AI + Intelligent Automation**
 
 Projects focused on:
 
@@ -225,78 +168,104 @@ Projects focused on:
 - Workflow Automation
 - AI Tools
 - n8n
-- Intelligent Automation
+- API Integration
+- Intelligent Workflows
+
+**Goal:** Turn repetitive tasks into intelligent workflows.
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🚗 Car Price Prediction
 
-Machine Learning project for predicting car prices using Python and ML techniques.
+Machine Learning project focused on predicting car prices using Python and machine learning techniques.
+
+**Tech:** Python • ML • Data Analysis
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💰 Trip Expense App
 
-Application designed to manage and track travel expenses.
+A practical application designed to track and manage travel expenses.
+
+**Tech:** Application Development • Database
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🔥 IoT Fire Detection
+<td width="50%" valign="top">
 
-IoT-based system designed for detecting fire and improving safety.
+### 🔥 IoT Fire Detection System
+
+An IoT-based project designed to detect fire conditions and improve safety through automated detection.
+
+**Focus:** IoT • Sensors • Automation
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎓 AI Classroom Engagement
 
-AI-driven project focused on improving classroom engagement.
+An AI-driven project focused on understanding and improving classroom engagement.
+
+**Focus:** AI • Computer Vision • Intelligent Systems
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🧠 My Learning Path
+<div align="center">
+
+## 🧠 HOW I THINK
 
 ```text
-                    🚀 MY TECH JOURNEY
+        🧪 QA TESTER
+             │
+             ▼
+      ┌──────────────┐
+      │ FIND PROBLEM │
+      └──────┬───────┘
+             │
+             ▼
+       🔍 TEST & ANALYZE
+             │
+             ▼
+       🐞 REPORT BUG
+             │
+             ▼
+        🔄 RETEST
+             │
+             ▼
+          ✅ FIXED
 
-                         │
-                         ▼
-                ┌─────────────────┐
-                │  🧪 QA TESTER   │
-                └────────┬────────┘
-                         │
-              ┌──────────┴──────────┐
-              ▼                     ▼
-        Manual Testing          SQL Testing
-              │                     │
-              └──────────┬──────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │ 🐍 PYTHON       │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │ 🤖 AI AGENTS    │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │ ⚡ AUTOMATION    │
-                └─────────────────┘
+
+        🤖 AI AGENT BUILDER
+             │
+             ▼
+       💡 FIND A TASK
+             │
+             ▼
+       🧠 DESIGN AGENT
+             │
+             ▼
+       🔗 CONNECT TOOLS
+             │
+             ▼
+       ⚡ AUTOMATE
+             │
+             ▼
+          🚀 DEPLOY
