@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hari Haran R
 
-### 🧪 Aspiring Software QA Engineer | Manual Testing | Python | SQL | AI/ML | Automation  | Computer Vision
+### 🧪 Aspiring Software QA Engineer, Manual Testing, Python, SQL, AI/ML, Automation, Computer Vision
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+QA+Engineer;Manual+Testing+%7C+Python+%7C+SQL;AI%2FML+%7C+Automation+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
